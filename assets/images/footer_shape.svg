@@ -1,25 +1,156 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1921.757" height="1177.694" viewBox="0 0 1921.757 1177.694">
-  <defs>
-    <linearGradient id="linear-gradient" x1="1" y1="1.241" x2="0.209" y2="-0.214" gradientUnits="objectBoundingBox">
-      <stop offset="0" stop-color="#291584"/>
-      <stop offset="1" stop-color="#a13ff6"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1921.757"
+   height="1177.694"
+   viewBox="0 0 1921.757 1177.694"
+   version="1.1"
+   id="svg2"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient175">
+      <stop
+         style="stop-color:#287c94;stop-opacity:1;"
+         offset="0.00000002"
+         id="stop175" />
+      <stop
+         style="stop-color:#14b7e2;stop-opacity:1;"
+         offset="1"
+         id="stop176" />
     </linearGradient>
-    <clipPath id="clip-path">
-      <path id="Path_1305" data-name="Path 1305" d="M2317.938-103.258S2257.209-532.1,1807.843-303.695,397.09,465.332,397.09,465.332L397.664,807l1921.183-.571Z" transform="translate(-398.09 8181)" fill="url(#linear-gradient)"/>
+    <linearGradient
+       id="linearGradient174"
+       x1="1"
+       y1="1.2410001"
+       x2="0.20900001"
+       y2="-0.214"
+       gradientUnits="objectBoundingBox"
+       spreadMethod="pad">
+      <stop
+         offset="0"
+         stop-color="#291584"
+         id="stop173" />
+      <stop
+         offset="1"
+         stop-color="#a13ff6"
+         id="stop174" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient"
+       x1="1"
+       y1="1.2410001"
+       x2="0.20900001"
+       y2="-0.214"
+       gradientUnits="objectBoundingBox"
+       xlink:href="#linearGradient174">
+      <stop
+         offset="0"
+         stop-color="#291584"
+         id="stop1" />
+      <stop
+         offset="1"
+         stop-color="#a13ff6"
+         id="stop2" />
+    </linearGradient>
+    <clipPath
+       id="clip-path">
+      <path
+         id="Path_1305"
+         data-name="Path 1305"
+         d="m 2317.938,-103.258 c 0,0 -60.729,-428.842 -510.095,-200.437 C 1358.477,-75.29 397.09,465.332 397.09,465.332 L 397.664,807 2318.847,806.429 Z"
+         transform="translate(-398.09,8181)"
+         fill="url(#linear-gradient)" />
     </clipPath>
+    <linearGradient
+       xlink:href="#linearGradient175"
+       id="linearGradient176"
+       x1="397.09"
+       y1="218.15262"
+       x2="2318.8469"
+       y2="218.15262"
+       gradientUnits="userSpaceOnUse" />
   </defs>
-  <g id="Group_1173" data-name="Group 1173" transform="translate(1 -7857.306)">
-    <path id="Path_985" data-name="Path 985" d="M2317.938-103.258S2257.209-532.1,1807.843-303.695,397.09,465.332,397.09,465.332L397.664,807l1921.183-.571Z" transform="translate(-398.09 8228)" fill="url(#linear-gradient)"/>
-    <g id="Mask_Group_5" data-name="Mask Group 5" transform="translate(0 47)" clip-path="url(#clip-path)">
-      <g id="Group_1161" data-name="Group 1161" transform="translate(265 126)">
-        <circle id="Ellipse_167" data-name="Ellipse 167" cx="156.5" cy="156.5" r="156.5" transform="translate(1377 7946)" fill="#fff" opacity="0.03"/>
-        <circle id="Ellipse_168" data-name="Ellipse 168" cx="156.5" cy="156.5" r="156.5" transform="translate(1396 8123)" fill="#fff" opacity="0.03"/>
-        <circle id="Ellipse_169" data-name="Ellipse 169" cx="156.5" cy="156.5" r="156.5" transform="translate(1564 8002)" fill="#fff" opacity="0.03"/>
+  <g
+     id="Group_1173"
+     data-name="Group 1173"
+     transform="translate(1,-7857.306)">
+    <path
+       id="Path_985"
+       data-name="Path 985"
+       d="m 2317.938,-103.258 c 0,0 -60.729,-428.842 -510.095,-200.437 C 1358.477,-75.29 397.09,465.332 397.09,465.332 L 397.664,807 2318.847,806.429 Z"
+       transform="translate(-398.09,8228)"
+       style="fill:url(#linearGradient176);fill-rule:nonzero" />
+    <g
+       id="Mask_Group_5"
+       data-name="Mask Group 5"
+       transform="translate(0,47)"
+       clip-path="url(#clip-path)">
+      <g
+         id="Group_1161"
+         data-name="Group 1161"
+         transform="translate(265,126)">
+        <circle
+           id="Ellipse_167"
+           data-name="Ellipse 167"
+           cx="156.5"
+           cy="156.5"
+           r="156.5"
+           transform="translate(1377,7946)"
+           fill="#ffffff"
+           opacity="0.03" />
+        <circle
+           id="Ellipse_168"
+           data-name="Ellipse 168"
+           cx="156.5"
+           cy="156.5"
+           r="156.5"
+           transform="translate(1396,8123)"
+           fill="#ffffff"
+           opacity="0.03" />
+        <circle
+           id="Ellipse_169"
+           data-name="Ellipse 169"
+           cx="156.5"
+           cy="156.5"
+           r="156.5"
+           transform="translate(1564,8002)"
+           fill="#ffffff"
+           opacity="0.03" />
       </g>
-      <g id="Group_1162" data-name="Group 1162" transform="translate(-1422 705)">
-        <circle id="Ellipse_167-2" data-name="Ellipse 167" cx="156.5" cy="156.5" r="156.5" transform="translate(1377 7946)" fill="#fff" opacity="0.02"/>
-        <circle id="Ellipse_168-2" data-name="Ellipse 168" cx="156.5" cy="156.5" r="156.5" transform="translate(1396 8123)" fill="#fff" opacity="0.02"/>
-        <circle id="Ellipse_169-2" data-name="Ellipse 169" cx="156.5" cy="156.5" r="156.5" transform="translate(1564 8002)" fill="#fff" opacity="0.02"/>
+      <g
+         id="Group_1162"
+         data-name="Group 1162"
+         transform="translate(-1422,705)">
+        <circle
+           id="Ellipse_167-2"
+           data-name="Ellipse 167"
+           cx="156.5"
+           cy="156.5"
+           r="156.5"
+           transform="translate(1377,7946)"
+           fill="#ffffff"
+           opacity="0.02" />
+        <circle
+           id="Ellipse_168-2"
+           data-name="Ellipse 168"
+           cx="156.5"
+           cy="156.5"
+           r="156.5"
+           transform="translate(1396,8123)"
+           fill="#ffffff"
+           opacity="0.02" />
+        <circle
+           id="Ellipse_169-2"
+           data-name="Ellipse 169"
+           cx="156.5"
+           cy="156.5"
+           r="156.5"
+           transform="translate(1564,8002)"
+           fill="#ffffff"
+           opacity="0.02" />
       </g>
     </g>
   </g>
