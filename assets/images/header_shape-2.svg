@@ -5,33 +5,8 @@
    viewBox="0 0 1921.757 1205.643"
    version="1.1"
    id="svg2"
-   sodipodi:docname="header_shape.svg"
-   inkscape:export-filename="header_shape-2.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.28822795"
-     inkscape:cx="829.20479"
-     inkscape:cy="515.2172"
-     inkscape:window-width="1920"
-     inkscape:window-height="944"
-     inkscape:window-x="26"
-     inkscape:window-y="23"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg2" />
   <defs
      id="defs2">
     <linearGradient
@@ -59,6 +34,5 @@
      data-name="Path 7"
      d="M -0.82473805,1155.66 C 6.8889891,1138.5796 112.29358,1255.5601 511.004,1138.362 995.04334,996.08211 1921.757,366.103 1921.757,366.103 L 1921.183,0.003 0,0.574 Z"
      fill="url(#linear-gradient)"
-     style="fill:url(#linear-gradient)"
-     sodipodi:nodetypes="cscccc" />
+     style="fill:url(#linear-gradient)" />
 </svg>
